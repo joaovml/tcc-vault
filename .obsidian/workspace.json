@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "a1d26efc34d4ce3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "209e56440be593b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb0dbc98bd29117",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Templates/Video Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c4d6983e668079a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dc53c6b3a53b73f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f69ef0bc7effc95c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9ebead12f45d5c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ca741799ac678fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce4d847d2201b077",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ccc554022731df0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c59e8e896aece633",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 - Templates/Video Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73b9aaeb2c074969",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5 - Templates/Video Note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6250a4a04b5e815f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f82d0fbfe448999",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 - Templates/Video Note.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f69ef0bc7effc95c",
+  "lastOpenFiles": [
+    "4 - Indexes",
+    "6 - Zettelkasten/Linux.md",
+    "5 - Templates/Video Note.md",
+    "5 - Templates/Full Note.md",
+    "2 - Source Material/Videos/The King of Learning Tools.md",
+    "2 - Source Material/Videos/How Does a Quantum Computer Work.md",
+    "2 - Source Material/Videos/Quantum Computers Explained.md",
+    "1 - Rough Notes/Algoritmos de Correção de Erros em Computação Quântica.md",
+    "1 - Rough Notes/Algoritmos Quânticos para Simulação.md",
+    "1 - Rough Notes/Quantum Gates.md",
+    "1 - Rough Notes/Superposição e emaranhamento.md",
+    "1 - Rough Notes/Teoria básica sobre Qubits.md",
+    "1 - Rough Notes/Algoritmo de Shor.md",
+    "1 - Rough Notes/Aplicações de Quântica em Criptografia.md",
+    "1 - Rough Notes/Pesquisas Atuais na Computação Quântica.md",
+    "1 - Rough Notes/Teoria dos Ruídos e Decorência na Computação Quântica.md",
+    "1 - Rough Notes/Vantagens e Desvantagens da Computação Quântica.md"
+  ]
+}
